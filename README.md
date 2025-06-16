@@ -9,7 +9,7 @@
 Este projeto tem como objetivo analisar o desempenho de quatro algoritmos de ordenação clássicos: **Merge Sort**, **Insertion Sort**, **Quick Sort** e **Bubble Sort**. A análise é feita com base no tempo de execução de cada algoritmo em diferentes tamanhos de entrada, permitindo observar o comportamento assintótico de cada um.
 
 ## Estrutura do Projeto
-
+```bash
 ├── resultados/     # Pasta contendo os resultados gerados
 ├── grafico/        # Pasta contendo os algoritmos
 | ├── graficos/     # pasta contendo os gráficos gerados
@@ -25,7 +25,7 @@ Este projeto tem como objetivo analisar o desempenho de quatro algoritmos de ord
 │ └── sort_utils.h
 ├── utils/     
 │ └── sort_utils.h # Algoritmo para gerar as entradas
-
+```
 
 ## Algoritmos Implementados
 
